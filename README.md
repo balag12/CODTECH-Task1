@@ -1,8 +1,8 @@
-NAME: G.BALA
-COMPANY: CODTECH IT SOLUTION 
-ID: CT4CSEH3541
-DOMAIN: Cybersecurity And Ethical Hacking
-DURATION: July 1 to 31
+NAME: G.BALA \
+COMPANY: CODTECH IT SOLUTION \
+ID: CT4CSEH3541 \
+DOMAIN: Cybersecurity And Ethical Hacking \
+DURATION: July 1 to 31 \
 
 ## Overview
 This project is a simple Todo web application designed to help beginners understand the basics of web development. It includes HTML for structure, CSS for styling, and JavaScript for functionality. The app allows users to add, complete, and delete tasks from a todo list.
