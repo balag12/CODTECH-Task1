@@ -13,6 +13,10 @@ index.html: The HTML file that provides the structure of the web app.
 styles.css: The CSS file that contains the styles for the web app.
 app.js: The JavaScript file that adds interactivity to the web app.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/dd3f9848-37fe-465b-b056-e3426c8307f3)
+![image](https://github.com/user-attachments/assets/2038fb70-b2d6-4476-85b1-c84f8fb86f24)
+
 ## Features
 
 - Add todos by entering a task and clicking "Add".
